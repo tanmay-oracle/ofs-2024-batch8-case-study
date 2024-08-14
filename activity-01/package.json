@@ -1,0 +1,16 @@
+{
+  "name": "node-js-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tanmay Singhania",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node-js-demo": "file:",
+    "readline-sync": "^1.4.10"
+  }
+}
